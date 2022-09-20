@@ -47,9 +47,6 @@ A Go implementation is available in the [`speedtest-go`](https://github.com/libr
 ## Node.js backend
 A partial Node.js implementation is available in the `node` branch, developed by [dunklesToast](https://github.com/dunklesToast). It's not recommended to use at the moment.
 
-## Donate
-[![Donate with Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/fdossena/donate)  
-[Donate with PayPal](https://www.paypal.me/sineisochronic)  
 
 ## License
 Copyright (C) 2016-2022 Federico Dossena
