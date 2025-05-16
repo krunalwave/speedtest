@@ -1,10 +1,10 @@
 # Using the docker image
 
-A docker version of LibreSpeed is available here: [GitHub Packages](https://github.com/librespeed/speedtest/pkgs/container/speedtest)
+A docker version of LibreSpeed is available here: [GitHub Packages](https://github.com/krunalwave/speedtest//pkgs/container/speedtest)
 
 # Alpine Linux variant
 
-An Alpine Linux based docker version of LibreSpeed is also available here: [GitHub Packages](https://github.com/librespeed/speedtest/pkgs/container/speedtest) under all the tags that have the `-alpine` suffix. This variant is significantly smaller but can have slightly different behaviour due to its toolchain being based in [musl](https://en.wikipedia.org/wiki/Musl) libc as mentioned in [here](https://alpinelinux.org/about/).
+An Alpine Linux based docker version of LibreSpeed is also available here: [GitHub Packages](https://github.com/krunalwave/speedtest//pkgs/container/speedtest) under all the tags that have the `-alpine` suffix. This variant is significantly smaller but can have slightly different behaviour due to its toolchain being based in [musl](https://en.wikipedia.org/wiki/Musl) libc as mentioned in [here](https://alpinelinux.org/about/).
 
 ## Quickstart
 

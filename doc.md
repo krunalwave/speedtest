@@ -2,7 +2,7 @@
 
 > by Federico Dossena
 > Version 5.4.1
-> [https://github.com/librespeed/speedtest/](https://github.com/librespeed/speedtest/)
+> [https://github.com/krunalwave/speedtest//](https://github.com/krunalwave/speedtest//)
 
 ## Introduction
 
